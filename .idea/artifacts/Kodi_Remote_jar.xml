@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Kodi_Remote:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kodi_Remote_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Kodi_Remote.jar">
+        <element id="module-output" name="Kodi_Remote" />
+      </element>
+    </root>
+  </artifact>
+</component>
